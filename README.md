@@ -3,6 +3,9 @@
 
 A classic Tic-Tac-Toe game built using React and TypeScript.
 
+<img width="617" height="569" alt="Screenshot 2025-11-07 at 3 20 01 PM" src="https://github.com/user-attachments/assets/f0ac3acb-dc99-44c8-964d-e31b517cf380" />
+
+
 ## Quick Start
 
 ```bash
